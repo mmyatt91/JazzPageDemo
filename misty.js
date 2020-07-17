@@ -11,3 +11,4 @@ const intervalId = setInterval(function () {
         word.style.color = randomRGB();
     }
 }, 1000)
+
