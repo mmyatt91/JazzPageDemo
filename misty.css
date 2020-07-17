@@ -12,6 +12,14 @@ p {
     text-align: center;
 }
 
+span {
+    color: red;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+
+}
+
 .word {
     transition: color 1000ms;
 }
